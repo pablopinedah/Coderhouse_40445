@@ -75,3 +75,5 @@ Este archivo fue creado con el siguiente comando:
 `pip freeze >> requirements.txt`
 
 Si no tienes el entorno virtual creado, puedes abrir el archivo con Visual Studio Code y hacer clic en **Crear ambiente**, luego elegir Venv, luego el intérprete Python (última versión), y finalmente pregunta por las dependencias: elegimos requirements.txt.
+
+Esto es un comentario adicional y no sirve para nada.
